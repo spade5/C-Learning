@@ -143,9 +143,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arraylib.h" />
+    <ClInclude Include="binaryTree.h" />
     <ClInclude Include="furthestBuilding.h" />
     <ClInclude Include="houseRobber.h" />
     <ClInclude Include="kthSmallestPath.h" />
+    <ClInclude Include="lc-239.h" />
+    <ClInclude Include="leetcode685.h" />
     <ClInclude Include="maxProfit.h" />
     <ClInclude Include="minDeletions.h" />
     <ClInclude Include="permutations.h" />

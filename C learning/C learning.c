@@ -2,11 +2,14 @@
 //
 
 #include <stdio.h>
-#include "binaryTree.h"
+#include <stdint.h>
+#include "lc-239.h"
 
 void main()
 {
-	test();
+	unsigned int n = 0;
+	unsigned int n1 = n - 1;
+	printf("%u, %u\n", n, n1);
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

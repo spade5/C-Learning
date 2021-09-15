@@ -50,5 +50,14 @@
     <ClInclude Include="arraylib.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="binaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="leetcode685.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lc-239.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
